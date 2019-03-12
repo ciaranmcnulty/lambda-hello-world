@@ -1,0 +1,14 @@
+{
+    "name": "ciaranmcnulty/bref-hello-world",
+    "type": "project",
+    "require": {
+        "mnapoli/bref": "^0.3.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ciaran McNulty",
+            "email": "mail@ciaranmcnulty.com"
+        }
+    ]
+}
